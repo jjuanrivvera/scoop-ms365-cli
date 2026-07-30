@@ -1,12 +1,12 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jjuanrivvera/ms365-cli/releases/download/v0.1.0/ms365-cli_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/jjuanrivvera/ms365-cli/releases/download/v0.1.1/ms365-cli_0.1.1_windows_amd64.zip",
             "bin": [
                 "ms365.exe"
             ],
-            "hash": "f592f2684996522ae75c11a4d70f7618b2790e3a42ff2498f52f4a624fde3e72"
+            "hash": "de57b5f2dca23825e334e0b6ea7cadefcbad67414383ee3aa7705c29920010ea"
         }
     }
 }
